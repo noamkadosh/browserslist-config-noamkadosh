@@ -1,0 +1,18 @@
+{
+	"name": "browserslist-config-noamkadosh",
+	"version": "1.0.0",
+	"description": "Browserslist config according to noamkadosh' personal preference",
+	"main": "index.js",
+	"keywords": [
+		"browserslist"
+	],
+	"author": "Noam Kadosh",
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/noamkadosh/browserslist-config-noamkadosh/issues"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/noamkadosh/browserslist-config-noamkadosh"
+	}
+}
